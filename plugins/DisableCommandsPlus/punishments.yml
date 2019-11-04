@@ -1,0 +1,31 @@
+#Here is the list of punishments for users!
+#The punishment will only be done if the player is denied the command from the config.yml file!
+
+#place false if you don't want punishments for users!
+usePunishments: false
+#Place all users in this list who won't have a punishment done to them!
+noPunishmentDone:
+
+#Change "use: false" to "use: true" to use that type of punishment!
+punishments:
+  kick:
+    use: false
+    messageForKick: 'You used a highly prohibited command!'
+#Place all commands here that you want to be punished by kicking the player!
+    commandsToPunish:
+    #- plugins
+    #- ban notch
+  sendVerbalWarning:
+    use: false
+#Place all commands here that you want to be punished verbally!
+    commandsToPunish:
+    #- deop
+    verbalMessage: '&4This command is highly prohibited!  You risk being banned if you use it!'
+
+  customPunishment:
+    use: false
+    commandToUse: 'tempban {player} 1m used a highly prohibited command!'
+#Place all commands you want to be punished custom here!
+    commandsToPunish:
+    #- stop
+

@@ -1,0 +1,3 @@
+#Because UUID is still in beta I added a config file so if the UUID glitches, you can revert back to no UUIDs.
+#Make true to use player UUIDs and false to not.  Both should work fine!
+useUUIDs: false

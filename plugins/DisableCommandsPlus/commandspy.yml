@@ -1,0 +1,24 @@
+#Here is if you want to watch players preform commands!  
+
+#Make this 'true' to see ALL commands players send! 
+showAllCommandsSent: false
+
+#Make this 'true' if you want only certain commands to be sent to the players in the playersToSeeCommands list!
+showAllSpecialCommands: false
+
+#If showAllSpecialCommands is 'true', place all commands you want notifications for here!
+specialCommandsList:
+#- op
+#- ban
+
+
+#If you have showAllCommandsSent or specialCommandsList to 'true'.
+#Place all players who can get the notification about players sending commands here
+playersToSeeCommands:
+#- notch
+
+
+#Place all players here that you don't want to have their commands 
+#Checked and sent to players in the playersToSeeCommands list.
+playersExcludedFromCheck:
+#- notch

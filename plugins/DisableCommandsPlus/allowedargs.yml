@@ -1,0 +1,57 @@
+#NOTE: Do not disable commands in any other configs but this config
+#If you want to disable commands with args
+
+
+#Here is the file that you use to disable the primary command
+#But allow certain args with the command!
+
+#Example: Disable the command /warp, /warp spawn, etc but allow players to use /warp pvp, /warp arena1, etc.
+
+
+#Place all users here that you don't want anything in this config to apply to!
+userCanUseAllArgs:
+
+
+
+
+#Place all commands to disable WITHOUT ARGS!!  If the command is not here and in args: list then the command
+#Won't be disabled!!!
+primaryCommandsToDisable:
+#- warp
+#- kit
+#- help
+
+
+#Place all the args that you disabled here
+#If they use the startCommand + the args disabled in this list, then it will be cancelled!
+#Or if they use the startCommand by itself!
+#Any player placed in the usersToIgnore: list can use all other args, even if they aren't in the args: list
+#NOTE!!! If the startCommand: is different then the command you are trying to disable args from, then this won't work!
+#NOTE!!! You need to keep startCommand: the same as the command you disable the args from!
+#messageToSend: is the message you want to tell the players when they do an arg in the list of disabled args.
+#Follow these 3 examples!
+
+args:
+#  warp:
+#    startCommand: warp
+#    disabledArgs:
+#    - pvp
+#    - shop
+#    usersToIgnore:
+#    - notch
+#    messageToSend: "&4Hey! You are only allowed to use &a/warp kits &4or &a/warp spawn"
+#  kit:
+#    startCommand: kit
+#    disabledArgs:
+#    - armor
+#    - starter
+#    usersToIgnore:
+#    - ComeAtMe
+#    messageToSend: "&4That kit is disabled!"
+#  help:
+#    startCommand: help
+#    disabledArgs:
+#    - 3
+#    - 4
+#    messageToSend: "&aUse /help 1 or /help 2 instead!"
+

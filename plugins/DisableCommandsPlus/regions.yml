@@ -1,0 +1,23 @@
+#This is the config file that you can disable commands per-regions using WorldEdit and WorldGuard.
+#Punishments and custom disable command messages will not work with these commands!
+
+#Place the disable message here
+messageForRegion: '&4That command is disabled in this region!'
+
+#Place all regions here that you want to have commands disabled in
+#Note: All regions are to be in lowercase
+# - exampleregion
+
+#Place all the players who can bypass this check here
+playersBypassAllRegions:
+# - SomeoneThatCanHaveAllCommandsHere
+
+
+#Place all the commands here that you want to disable per-region
+commandsToDisable:
+  # exampleregion:
+  #  commands:
+  #    - message
+  #    - help
+  #  canBypass:
+  #  - playersThatCanBypassGoHere

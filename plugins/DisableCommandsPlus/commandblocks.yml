@@ -1,0 +1,9 @@
+#Here you can block what commands you don't want used in a command block!
+
+disabledCommands:
+
+#Change this to 'true' if you want players to be prohibited from placing blocks!
+checkIfUserPlacesBlock: false
+#Place all users here that you want to be able to even place a commandblock; only if
+#checkIfUsePlacesBlock: is true!
+usersCanPlaceBlocks:

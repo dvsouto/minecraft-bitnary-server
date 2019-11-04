@@ -1,0 +1,10 @@
+socketPort: 9876
+socketPassword: minecraft.bitnary.caixa01
+senderPrefix: '[WebSender]'
+wrongPassword: Senha incorreta, por favor tente novamente.
+wrongData: Please check PHP variables.
+succesfullyLogin: Login efetuado com sucesso.
+consoleInfo: 'true'
+commandPermission: websender.admin
+nothavePerm: You not have permission!
+pluginReloaded: Websender reloaded!

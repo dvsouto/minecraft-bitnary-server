@@ -1,0 +1,21 @@
+#This config file is to disable the ':' commands
+#Examples: bukkit:ban, essentials:op, essentials:kit, permissionsex:pex, etc.
+
+#Make this true if you want to disable ALL commands like that.  I highly recommend making this true!
+disableAdvCommands: false
+
+
+#If the disableAdvCommands is true, place all plugins you have here to disable players from using /essentials:, /bukkit:, etc.
+#Usually the commands that have the ':' are whatever the plugin's name it.
+#So place all plugins enabled on your server here, type /plugins in console if you don't know the plugin's in-game name!
+disableAdvCommandsList:
+- bukkit
+- minecraft
+- spigot
+- essentials
+- worldguard
+- worldedit
+- permissionsex
+- coreprotect
+- groupmanager
+- disablecommandsplus

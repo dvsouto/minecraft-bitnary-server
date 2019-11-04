@@ -1,0 +1,9 @@
+plugin:
+    permissions:
+        system: default
+        copies:
+groups:
+    Default:
+        default: true
+        permissions:
+            - minecraft.command.xp: false  

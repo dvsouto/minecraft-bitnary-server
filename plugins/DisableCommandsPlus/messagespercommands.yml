@@ -1,0 +1,20 @@
+#Here you can place all messages per-command you want sent!
+
+#ALL COMMANDS PLACED IN THIS CONFIG FILE WILL ONLY BE USED IF THE PLAYER DOESN'T HAVE ACCESS TO THE COMMAND FROM
+#THE CONFG.YML FILE!!!!
+
+#Please note!!!
+
+#Place all commands here that will have a custom message!  This will override any other message that would be sent to 
+#From config.yml and punishments.yml!
+commandsForCustomMessage:
+#- op
+#- ban
+
+
+#Place all messages here for the commands!
+customMessages:
+#  op:
+#   message: '&aYes, we are giving away free ops!! What did you expect?!?'
+#  ban:
+#    message: '&aThat's harsh. Maybe you should just hug eachother!'

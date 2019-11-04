@@ -1,0 +1,450 @@
+unknownHomes:
+  3578e2e5-790a-3627-94e0-16611a899172:
+    world: unioit_minecraft
+    x: -52.06837738614613
+    y: 69.0
+    z: 464.45588244924636
+    pitch: 30.95818
+    yaw: -332.2127
+  47e423c7-4afd-3341-b1c2-9b0fb07041e9:
+    world: unioit_minecraft
+    x: -886.6481203579289
+    y: 35.0
+    z: 1202.924877372034
+    pitch: 37.960445
+    yaw: 248.05519
+  eefc2e16-1fbb-3964-970b-020afbc2e79f:
+    world: unioit_minecraft
+    x: -208.4115836299635
+    y: 72.0
+    z: 401.7501008676878
+    pitch: 9.750009
+    yaw: 269.57953
+  376f3ff2-8d38-492d-b626-5ecaba3a2971:
+    world: unioit_minecraft
+    x: -204.94380982538488
+    y: 72.0
+    z: 403.2502031998588
+    pitch: 12.299976
+    yaw: 143.2962
+  2acc3954-82b3-4011-9e56-2e138db58d2d:
+    world: unioit_minecraft
+    x: 640.4094592812829
+    y: 132.0
+    z: 460.1246460979612
+    pitch: 15.133586
+    yaw: 27.51826
+allNamedHomes:
+  32e9da30-2f91-39ba-a01d-833f975a9a4a:
+    home:
+      world: unioit_minecraft
+      x: -168.98711179068874
+      y: 71.5
+      z: 341.1966209408161
+      pitch: 38.100014
+      yaw: -90.30023
+    initial:
+      world: unioit_minecraft
+      x: -61.98702816615769
+      y: 63.0
+      z: 486.6781559796319
+      pitch: 5.2499824
+      yaw: -181.80023
+    diamante:
+      world: unioit_minecraft
+      x: -190.43108347170235
+      y: 65.0
+      z: 125.38501326844543
+      pitch: 16.800423
+      yaw: -113.23877
+  ee9efc39-b8c3-328e-bcb6-8553c33a129d:
+    TomzeraHome:
+      world: unioit_minecraft
+      x: -88.41984379624598
+      y: 73.0
+      z: 400.6552502052372
+      pitch: -1.1992882
+      yaw: 115.51367
+  3578e2e5-790a-3627-94e0-16611a899172:
+    PORTAL:
+      world: unioit_minecraft
+      x: -884.6999999880791
+      y: 35.0
+      z: 1206.699999988079
+      pitch: 8.455147
+      yaw: -152.23006
+      desc: THE END
+    NETHER:
+      world: unioit_minecraft_nether
+      x: 417.843546890067
+      y: 53.0
+      z: 347.76249998807907
+      pitch: 6.7252407
+      yaw: 192.224
+      desc: FORTALEZA DO NETHER
+    VILA:
+      world: unioit_minecraft
+      x: -362.6307902889438
+      y: 64.9375
+      z: 1260.042721747741
+      pitch: 14.084787
+      yaw: -187.46602
+      desc: vila com boas trades
+  47e423c7-4afd-3341-b1c2-9b0fb07041e9:
+    casa:
+      world: unioit_minecraft_the_end
+      x: 336.1280044550351
+      y: 124.0
+      z: 2967.2192643024805
+      pitch: 57.05177
+      yaw: -320.02625
+    h:
+      world: unioit_minecraft
+      x: -133.39711790412264
+      y: 58.0
+      z: 477.60129740970825
+      pitch: 10.139598
+      yaw: 88.289154
+  eefc2e16-1fbb-3964-970b-020afbc2e79f:
+    mobtrap:
+      world: unioit_minecraft
+      x: 7.966269790647722
+      y: 180.0
+      z: 45.50546386772717
+      pitch: 19.20004
+      yaw: 21.779907
+    trap:
+      world: unioit_minecraft
+      x: 2.5328035584600213
+      y: 204.0
+      z: 24.1242042251494
+      pitch: 34.500717
+      yaw: 3.0187988
+    enc:
+      world: unioit_minecraft
+      x: -52.30000001192093
+      y: 66.0
+      z: 464.9291816799431
+      pitch: 16.499966
+      yaw: -171.27052
+  376f3ff2-8d38-492d-b626-5ecaba3a2971:
+    mobtrap:
+      world: unioit_minecraft
+      x: 5.317362371075875
+      y: 180.0
+      z: 26.405252795434702
+      pitch: 3.5999155
+      yaw: 160.07883
+    trap:
+      world: unioit_minecraft
+      x: 4.405027420767203
+      y: 207.5
+      z: 36.03571054389472
+      pitch: 22.649998
+      yaw: 29.426758
+    montanha:
+      world: unioit_minecraft
+      x: 651.1977511058908
+      y: 127.0
+      z: 455.9259614182499
+      pitch: 37.799686
+      yaw: 262.23376
+    montanha2:
+      world: unioit_minecraft
+      x: 1511.2511537807893
+      y: 105.0
+      z: 939.8610683259651
+      pitch: -1.8000209
+      yaw: 277.23267
+    vila:
+      world: unioit_minecraft
+      x: 1181.9795948247129
+      y: 64.0
+      z: 1189.954432258384
+      pitch: 7.200014
+      yaw: 55.223877
+    gelo:
+      world: unioit_minecraft
+      x: -1154.1775850964011
+      y: 63.0
+      z: 1362.9198918962563
+      pitch: 18.150187
+      yaw: 81.04492
+    vila2:
+      world: unioit_minecraft
+      x: -1242.0828783655893
+      y: 63.0
+      z: 821.68554018812
+      pitch: 9.450052
+      yaw: 135.33972
+    fortaleza:
+      world: unioit_minecraft_nether
+      x: -338.68447316130533
+      y: 67.0
+      z: 634.4981515023986
+      pitch: 33.301407
+      yaw: 269.00897
+    stronghold:
+      world: unioit_minecraft
+      x: -917.5836438800653
+      y: 39.0
+      z: 1221.7356504125182
+      pitch: 17.250029
+      yaw: -89.54977
+    trapcima:
+      world: unioit_minecraft
+      x: 7.673969375280954
+      y: 217.0
+      z: 30.203785285899485
+      pitch: 18.150051
+      yaw: 201.91809
+    mansao:
+      world: unioit_minecraft
+      x: 6987.013045683034
+      y: 82.48777412219724
+      z: 5283.077458964872
+      pitch: 24.689909
+      yaw: -2.8076782
+  2acc3954-82b3-4011-9e56-2e138db58d2d:
+    PRINCIPAL:
+      world: unioit_minecraft
+      x: -52.16771378363698
+      y: 66.0
+      z: 468.02430966475686
+      pitch: 5.430508
+      yaw: -273.76285
+    NOVA:
+      world: unioit_minecraft
+      x: 622.6622466386154
+      y: 124.0
+      z: 459.05173169283
+      pitch: 9.468622
+      yaw: 257.27
+      desc: CASA
+  be6dd93c-6c84-4965-83b4-f0c35a7fbbce:
+    casainverno:
+      world: unioit_minecraft
+      x: 640.2270560969131
+      y: 128.0
+      z: 457.9627581033926
+      pitch: 15.450023
+      yaw: -289.44922
+    casa:
+      world: unioit_minecraft
+      x: -167.8638813279301
+      y: 70.5
+      z: 341.35805406182646
+      pitch: -4.949995
+      yaw: -88.20001
+    vila:
+      world: unioit_minecraft
+      x: 742.6110665149777
+      y: 68.0
+      z: 301.6676736761993
+      pitch: 37.500153
+      yaw: -82.57321
+    slimefarm:
+      world: unioit_minecraft
+      x: -109.0656830377016
+      y: 68.0
+      z: 282.6526568302112
+      pitch: 7.800027
+      yaw: 288.25958
+    bau:
+      world: unioit_minecraft
+      x: -126.72680735307529
+      y: 68.0
+      z: 328.1112512101266
+      pitch: 14.69999
+      yaw: -141.60008
+    end:
+      world: unioit_minecraft
+      x: -879.7101991689366
+      y: 38.0
+      z: 1203.908029128419
+      pitch: 14.249936
+      yaw: 256.20322
+    endcity:
+      world: unioit_minecraft_the_end
+      x: -2771.0014165143502
+      y: 70.22570161579745
+      z: -10423.65640268302
+      pitch: -5.2503867
+      yaw: 71.33984
+    endcity2:
+      world: unioit_minecraft_the_end
+      x: -2873.042935301748
+      y: 133.0
+      z: -12420.066931908508
+      pitch: 0.75001144
+      yaw: -57.695618
+    piramide:
+      world: unioit_minecraft
+      x: -3691.6787843752386
+      y: 69.0
+      z: 656.3933671135441
+      pitch: 8.399975
+      yaw: 83.68271
+  bf1f1adf-9b3f-4bd3-8c60-60654c6d9bdb:
+    l2:
+      world: unioit_minecraft
+      x: 633.8250788293153
+      y: 128.0
+      z: 460.75535707260843
+      pitch: 34.39353
+      yaw: 322.9316
+    casa:
+      world: unioit_minecraft
+      x: -136.68104600610243
+      y: 58.0
+      z: 474.13680829381093
+      pitch: 37.504795
+      yaw: 3.1943557
+    bb:
+      world: unioit_minecraft
+      x: -121.156114988196
+      y: 61.0
+      z: 307.1691703611102
+      pitch: 24.718174
+      yaw: -172.85115
+    slime:
+      world: unioit_minecraft
+      x: -105.9133462266858
+      y: 68.0
+      z: 285.9740438168823
+      pitch: 32.852688
+      yaw: 140.41302
+  9ef76c5f-b5de-4ed5-9ee3-ec39defc8965:
+    TomzeraHome:
+      world: unioit_minecraft
+      x: -89.77714013272853
+      y: 73.0
+      z: 400.4311557208077
+      pitch: 15.14961
+      yaw: 336.56873
+    fortaleza:
+      world: unioit_minecraft_nether
+      x: -336.300000011921
+      y: 67.0
+      z: 636.2818336281607
+      pitch: 6.3014507
+      yaw: 180.5094
+    fogo:
+      world: unioit_minecraft_nether
+      x: -362.30000001192093
+      y: 67.0
+      z: 727.7583554624856
+      pitch: 2.551586
+      yaw: 14.152283
+    mobtrap:
+      world: unioit_minecraft
+      x: 4.919079373075116
+      y: 180.0
+      z: 27.962119373087408
+      pitch: 9.5999155
+      yaw: 234.92879
+    theend:
+      world: unioit_minecraft
+      x: -917.8072216554734
+      y: 39.0
+      z: 1218.5519354331705
+      pitch: 35.55003
+      yaw: 83.700226
+    end:
+      world: unioit_minecraft
+      x: -881.9908139146568
+      y: 35.5
+      z: 1201.4109448525974
+      pitch: 18.900064
+      yaw: 299.10205
+    baus:
+      world: unioit_minecraft
+      x: -59.66172817994519
+      y: 56.5
+      z: 511.5319534455025
+      pitch: 32.54949
+      yaw: 341.971
+    spider:
+      world: unioit_minecraft
+      x: -857.103428380623
+      y: 54.0
+      z: 270.7919227424088
+      pitch: 26.549843
+      yaw: 217.49976
+    vila:
+      world: unioit_minecraft
+      x: -669.0372810593028
+      y: 83.0
+      z: -129.30000001192093
+      pitch: 29.84994
+      yaw: 126.3562
+    cima:
+      world: unioit_minecraft
+      x: -84.84794668341162
+      y: 77.0
+      z: 403.0256922674036
+      pitch: 28.799286
+      yaw: -90.63568
+    vila2:
+      world: unioit_minecraft
+      x: -288.7333085857254
+      y: 72.0
+      z: 1202.9117332129035
+      pitch: 16.65007
+      yaw: 27.549316
+    flutuante:
+      world: unioit_minecraft
+      x: -271.40203155263214
+      y: 108.0
+      z: 1760.5493232311953
+      pitch: 42.299976
+      yaw: 64.9043
+    caverna:
+      world: unioit_minecraft
+      x: 207.67482558926588
+      y: 45.0
+      z: 1444.5610001383848
+      pitch: 4.950048
+      yaw: 102.46265
+    barco:
+      world: unioit_minecraft
+      x: 67.97046065206959
+      y: 63.0
+      z: 1913.699999988079
+      pitch: 27.900244
+      yaw: 170.06364
+    seila:
+      world: unioit_minecraft
+      x: 642.8625111309726
+      y: 109.0
+      z: 491.83900081186766
+      pitch: -31.650045
+      yaw: 188.6136
+    lucas:
+      world: unioit_minecraft
+      x: 633.436153280022
+      y: 104.0
+      z: 445.44089552205196
+      pitch: 7.7997866
+      yaw: 5.625305
+    golf:
+      world: unioit_minecraft
+      x: 609.1834218471845
+      y: 63.0
+      z: -81.77604391137028
+      pitch: 25.64993
+      yaw: 163.36737
+    tesouro:
+      world: unioit_minecraft
+      x: -97.9346552231459
+      y: 63.0
+      z: 2266.4583887791305
+      pitch: 26.850159
+      yaw: 87.34247
+    afogado:
+      world: unioit_minecraft
+      x: 1.7519890272501502
+      y: 63.08576482143576
+      z: 2659.5906762502545
+      pitch: 50.099636
+      yaw: 166.10532

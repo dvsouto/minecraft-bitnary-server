@@ -1,0 +1,143 @@
+#Disable Commands!
+#By ekclifford
+#This plugin is made to allow anyone with access to the server console to change access to commands
+#This plugin can disable commands for ops, players with '*' permission, etc.
+
+
+#Here are all the messages you can change!!!
+#DO NOT USE WORDS LIKE; can't, don't, shouldn't, etc. BECAUSE OF CONSOLE ERRORS!!!
+#If you want the messages to not be the default message, remove the # and put message in!!!
+
+disableCommandsMessage: '&4Ow safado, esse comando ta desabilitado ! Fica esperto ai ladrao...'
+#disableWorldMessage: '&4You do not have access to that command in this world!'
+#cantBanMessage: '&4You can not BAN that player!'
+#cantUnbanMessage: '&4You can not UNBAN that player!'
+#cantKickMessage: '&4You can not KICK that player!'
+#cantMuteMessage: '&4You can not MUTE that player!'
+#cantKillMessage: '&4You can not KILL that player!'
+#cantOpMessage: '&4You can not OP that player!'
+#cantDeopMessage: '&4You can not DEOP that player!'
+#cantJailMessage: '&4You can not JAIL that player!'
+
+
+#Place commands to disable here; for all players!
+#This is for all players; who are not on the forbidden-commandsAllow list
+#ex.
+#forbidden-commands:
+#- list
+#- gmc
+forbidden-commands:
+- xp
+- gamemode
+- ban
+- ban-ip
+- clear
+- defaultgamemode
+- difficulty
+- effect
+- enchant
+- gamerule
+- kick
+- pardon
+- pardon-ip
+- setblock
+- fill
+- setworldspawn
+- stop
+- summon
+- worldedit
+- ceil
+- schematic
+- none
+- brush
+- setbiome
+- delchunks
+- restore
+- snapshot
+- fill
+- removeabove
+- removebelow
+- removenear
+- replacenear
+- remove
+- set
+- pos1
+- pos2
+- hpos1
+- hpos2
+- paste  
+- restart
+
+#Place players here who can bypass the forbidden-commands list
+forbidden-commandsAllow:
+
+
+#It is needed that you place a list here of all players that you place in users:
+#Disable per-player commands won't work otherwise
+#This is to reduce lag, and make the plugin work smoothly
+#ex.
+#usersDenied:
+#- ekclifford
+usersDenied:
+
+#Per-Player command disable; place players name then the command to restrict
+#ex.
+#users:
+#  ekclifford:
+#  - kit
+#  - list
+users:
+
+#Place all players in all groups here!
+#If player isn't listed here, the player won't lose that command!
+#This is to reduce lag, and make the plugin work smoothly
+usersDeniedInGroups:
+
+#Place the groups that you want here; need to be in format, "Group" + "Group number"
+#Groups are made as follows; Group1, Group2, Group3, Group4, etc.
+#To reduce lag, there are only a total number of 20 different groups you can make!
+#Ex. 
+#groups:
+#  Group1:
+#    users:
+#    - ekclifford
+#    - AmericanaStorm
+#    commands:
+#    - list
+#    - bal
+#    - balance
+groups:
+
+
+#Place list of all users that you want to be able to use any command
+#in any world; as long as they already have the per for the command
+usersCanUseCommandsInAllWorlds:
+
+
+#Place all the different world names and what commands to disable for it.
+#ex.
+#worlds:
+#  world_nether:
+#  - list
+#  - kit
+#  - tp
+worlds:
+
+
+#Add the player to disable the command being done to a certain player!
+#You can only make groups: op, deop, kick, ban, unban, kill, mute, and jail
+#ex.
+#disableingAdvArg:
+#  op:
+#  - helpMe
+#  ban:
+#  - runAway101
+disablingAdvArg:
+
+#Add players here who can do any commands for any players listed in disableingAdvArg list
+disablingAdvArgAllowList:
+
+
+
+
+
